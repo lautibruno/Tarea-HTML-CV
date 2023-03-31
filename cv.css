@@ -1,3 +1,32 @@
 h2{
-    color:red;
+    color:rgb(0, 0, 0); /*color parrafo h2*/
+    font-size: 30px;
+}
+
+p{
+    color: black;
+    line-height: 25px;/*espacio entre linea de los parrafos*/
+}
+
+
+#cajacontacto
+{
+    width: 500px;
+    height: 50px;
+    background: rgb(123, 194, 136);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+#contenidocv{
+    text-align:center;
+    line-height: 25px;
+}
+body{
+    background-color: rgb(177, 245, 188);
+}
+#cabecera{
+    background: rgba(60, 148, 99, 0.253);
 }
